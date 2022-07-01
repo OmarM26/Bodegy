@@ -57,7 +57,7 @@
                 <a class="navbar-link">Generar Reportes</a>
 
                 <div class="navbar-dropdown">
-                <a href="index.php?vista=product_list" class="navbar-item">Lista productos</a>
+                <a class="button is-primary is-rounded" download="Excel" href="php/generar_reporte.php" class="navbar-item">Generar Reporte</a>
 
                 </div>
             </div>
